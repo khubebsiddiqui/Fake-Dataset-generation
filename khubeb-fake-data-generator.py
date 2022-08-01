@@ -17,7 +17,6 @@ import numpy as np
 import os
 import random
 import matplotlib.pyplot as plt
-import pickle
 import time
 import random
 from random import choice, randint
