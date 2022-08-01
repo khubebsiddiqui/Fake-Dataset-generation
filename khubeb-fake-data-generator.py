@@ -1,10 +1,10 @@
-#####################Install the Faker Library##########
+#####################Install the required Libraries if not available##########
 
-%pip install faker
-%pip install matplotlib
-%pip install pandas
-%pip install numpy
-$pip install random
+#%pip install faker
+#%pip install matplotlib
+#%pip install pandas
+#%pip install numpy
+#$pip install random
 
 # debugging and formatter
 from IPython.core.debugger import set_trace
